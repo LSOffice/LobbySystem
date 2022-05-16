@@ -1,0 +1,9 @@
+name: LobbySystem
+version: 1.0-SNAPSHOT
+main: net.lsoffice.lobbysystem.LobbySystem
+api-version: 1.8
+authors: [ LSOffice ]
+
+commands:
+  hub:
+    description: hub cmds
